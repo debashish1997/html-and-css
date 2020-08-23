@@ -1,0 +1,45 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	font-family: 'Balsamiq Sans', cursive;
+	background: url(../image/background5.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.Container{
+	width: 600px;
+	margin: 20% auto;
+
+
+}
+.Login-Section{
+
+	background-color: skyblue;
+
+	padding: 25px;
+
+}
+.Login-Section h1{
+
+	text-align: center;
+
+	color: black;
+
+	margin: 15px;
+
+	font-size: 32px;
+
+	text-transform: uppercase;
+}
+.form-control{width: 90%;padding: 5px;height: 25px;margin-bottom: 10px;}
+
+.button {
+    margin: 0 auto;
+    display: block;
+    border: none;
+    padding: 8px 20px;
+    color: #0703f1;
+    box-shadow: 1px 2px 4px green;
+}
